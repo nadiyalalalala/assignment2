@@ -1,0 +1,66 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: white;
+}
+#title {
+  background-color: rgb(72, 71, 73);
+  color: #fff;
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  font-size: 3rem;
+  line-height: 1.5;
+  margin-left: 10% ;
+  margin-bottom: 5%;
+}
+
+h2 {
+  font-weight: bolder;
+}
+
+.container-fluid {
+  padding: 2% 15%;
+}
+
+
+/* Navbar Section */
+
+.navbar-brand {
+  font-weight: bolder;
+  font-size: 2rem;
+}
+
+.navbar {
+  padding: 0 0 3.5rem 0;
+}
+
+.nav-item {
+  padding: 0 30px;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-left: 40%;
+}
+
+/* Join Buttons */
+
+.Join-button {
+  margin-left: 40%;
+}
+
+/* Features */
+
+#features {
+  padding: 7% 15%;
+  text-align: center;
+}
+#Testimonials {
+  padding: 7% 15%;
+  text-align: center;
+}
+#Prices {
+  padding: 7% 15%;
+  text-align: center;
+}
+
